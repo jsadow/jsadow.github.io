@@ -1,5 +1,5 @@
 ---
-layout:site
+layout: site
 ---
 # Jaroslaw Sadowski's website
 
