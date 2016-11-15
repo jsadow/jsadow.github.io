@@ -7,4 +7,4 @@ layout: site2
 Welcome on my site... :)
 Using Markdown!
 
-[moje CV](cv.md)
+[moje CV](cv)
